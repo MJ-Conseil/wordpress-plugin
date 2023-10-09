@@ -2,7 +2,7 @@
 
 ## Que contient ce répertoire ?
 
-Ce répertoire contient le plugin wordpress créé dans le cadre du développement du site mj-conseiL.fr
+Ce répertoire contient le plugin wordpress créé dans le cadre du développement du site mj-conseil.fr
 
 
 ## Pourquoi ce plugin ?
